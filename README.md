@@ -49,11 +49,11 @@ Once you’re in the image project, you'll need to create two classes:
 
 1. **Water Bottles**: Upload images or drag and drop them into the first class. You can either upload them from your device or import from Google Drive.
 
-![Water Bottle Class]("https://github.com/mathusalini/teachable_machine/blob/main/Screenshot0.png")
+![Screenshot0](https://github.com/user-attachments/assets/0d4444e8-323c-42c1-82a0-93f5c0997b98)
 
 2. **Stationary Items**: For the second class, upload images or drag and drop them for stationary items like pens, rulers, erasers, etc.
 
-![Stationary Items Class]("https://github.com/mathusalini/teachable_machine/blob/main/Screenshot1.png")
+![Screenshot1](https://github.com/user-attachments/assets/225eaade-23d4-48ca-8e04-e6028c9d2757)
 
 ## Step 3: Upload Image Samples
 
@@ -67,14 +67,13 @@ Here are examples of image samples for both classes:
 
 After uploading the images, click the **Train Model** button. Teachable Machine will process the data and start training based on the provided examples.
 
-![Train Model Button]("https://github.com/mathusalini/teachable_machine/blob/main/Screenshot2.png")
-
+![Screenshot2](https://github.com/user-attachments/assets/4b828980-de49-4d8f-8fb7-07f0ac46b934)
 ## Step 5: Test and Export the Model
 
 Once the training is complete, you can test the model in real-time using your webcam or uploading new images. Test to see if it can distinguish between water bottles and stationary items.
+![Screenshot3](https://github.com/user-attachments/assets/166775df-3234-4b40-bb0f-1f98e5646761)
 
 If you’re satisfied with the results, you can export the model to use in your own web projects, applications, or even in hardware devices using platforms like TensorFlow.js or TensorFlow Lite.
-https://github.com/mathusalini/teachable_machine/blob/main/Screenshot3.png
 
 ---
 
