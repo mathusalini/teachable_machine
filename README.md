@@ -80,3 +80,9 @@ If you’re satisfied with the results, you can export the model to use in your 
 
 By following this process, you will be able to train a simple image classifier that can help you analyze what objects are being used in your online study classes. With real-time testing, you can check whether the student is using a water bottle or a stationary item in the live feed.
 
+import base64
+
+with open("C:\Users\user\Documents\projects\teachable_machine\Screenshot3.png", "rb") as image_file:
+    encoded_string = base64.b64encode(image_file.read()).decode('utf-8')
+    print(encoded_string)
+
