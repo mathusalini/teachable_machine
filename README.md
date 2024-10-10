@@ -15,6 +15,7 @@ The interface is designed for non-programmers, so you don't need any coding expe
 - **Input Data**: You upload images, record sounds, or provide webcam input for training.
 - **Training**: The system trains a model based on the examples you provided, recognizing patterns in the data.
 - **Exporting**: Once the model is trained, you can export it to use in your own projects. Teachable Machine supports export to platforms like TensorFlow.js (for websites), TensorFlow Lite (for mobile devices), and even Coral (for edge devices).
+                     ![Screenshot4](https://github.com/user-attachments/assets/4b9f4f71-90cb-4294-8fd2-3cc9ed04e10a)
 
 ## No Installation Required:
 
