@@ -49,7 +49,7 @@ Once you’re in the image project, you'll need to create two classes:
 
 1. **Water Bottles**: Upload images or drag and drop them into the first class. You can either upload them from your device or import from Google Drive.
 
-![Water Bottle Class]("https://github.com/mathusalini/teachable_machine/blob/main/Screenshot0.png")
+![Screenshot0](https://github.com/user-attachments/assets/0d4444e8-323c-42c1-82a0-93f5c0997b98)
 
 2. **Stationary Items**: For the second class, upload images or drag and drop them for stationary items like pens, rulers, erasers, etc.
 
