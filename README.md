@@ -42,7 +42,6 @@ In this tutorial, we will create a machine learning model using Teachable Machin
 
 Go to the [Teachable Machine](https://teachablemachine.withgoogle.com/) website and click on **Get Started**. Choose the **Image Project** option.
 
-![Teachable Machine - Project Creation]("C:\Users\user\Documents\projects\teachable_machine\Screenshot0.png")
 
 ## Step 2: Create Classes for Water Bottles and Stationary Items
 
@@ -50,11 +49,11 @@ Once you’re in the image project, you'll need to create two classes:
 
 1. **Water Bottles**: Upload images or drag and drop them into the first class. You can either upload them from your device or import from Google Drive.
 
-![Water Bottle Class]("C:\Users\user\Documents\projects\teachable_machine\Screenshot1.png")
+![Water Bottle Class]("https://github.com/mathusalini/teachable_machine/blob/main/Screenshot0.png")
 
 2. **Stationary Items**: For the second class, upload images or drag and drop them for stationary items like pens, rulers, erasers, etc.
 
-![Stationary Items Class]("C:\Users\user\Documents\projects\teachable_machine\Screenshot2.png")
+![Stationary Items Class]("https://github.com/mathusalini/teachable_machine/blob/main/Screenshot1.png")
 
 ## Step 3: Upload Image Samples
 
@@ -68,13 +67,14 @@ Here are examples of image samples for both classes:
 
 After uploading the images, click the **Train Model** button. Teachable Machine will process the data and start training based on the provided examples.
 
-![Train Model Button]("C:\Users\user\Documents\projects\teachable_machine\Screenshot3.png")
+![Train Model Button]("https://github.com/mathusalini/teachable_machine/blob/main/Screenshot2.png")
 
 ## Step 5: Test and Export the Model
 
 Once the training is complete, you can test the model in real-time using your webcam or uploading new images. Test to see if it can distinguish between water bottles and stationary items.
 
 If you’re satisfied with the results, you can export the model to use in your own web projects, applications, or even in hardware devices using platforms like TensorFlow.js or TensorFlow Lite.
+https://github.com/mathusalini/teachable_machine/blob/main/Screenshot3.png
 
 ---
 
