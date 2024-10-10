@@ -32,3 +32,51 @@ Everything runs in your browser, so you don’t need to install any software. Al
 2. **Train Model**: Teachable Machine trains a machine learning model on this data.
 3. **Test & Refine**: You can test the model in real-time and adjust the data if necessary.
 4. **Export**: Once satisfied, export the model for use in web apps or other platforms.
+
+
+# How to Create and Train a Model in Teachable Machine
+
+In this tutorial, we will create a machine learning model using Teachable Machine to classify two categories: **Water Bottles** and **Stationary Items**. This can be useful in online study classes to analyze what students are using.
+
+## Step 1: Create a New Teachable Machine Project
+
+Go to the [Teachable Machine](https://teachablemachine.withgoogle.com/) website and click on **Get Started**. Choose the **Image Project** option.
+
+![Teachable Machine - Project Creation]("C:\Users\user\Documents\projects\teachable_machine\Screenshot0.png")
+
+## Step 2: Create Classes for Water Bottles and Stationary Items
+
+Once you’re in the image project, you'll need to create two classes:
+
+1. **Water Bottles**: Upload images or drag and drop them into the first class. You can either upload them from your device or import from Google Drive.
+
+![Water Bottle Class]("C:\Users\user\Documents\projects\teachable_machine\Screenshot1.png")
+
+2. **Stationary Items**: For the second class, upload images or drag and drop them for stationary items like pens, rulers, erasers, etc.
+
+![Stationary Items Class]("C:\Users\user\Documents\projects\teachable_machine\Screenshot2.png")
+
+## Step 3: Upload Image Samples
+
+For each class, make sure to add a variety of images to help train the model accurately. You can add as many images as you have. The more diverse the images, the better the model will perform.
+
+Here are examples of image samples for both classes:
+- **Water Bottles**: Images of different types of water bottles (plastic, metal, etc.)
+- **Stationary Items**: Items such as pencils, pens, rulers, and erasers.
+
+## Step 4: Train the Model
+
+After uploading the images, click the **Train Model** button. Teachable Machine will process the data and start training based on the provided examples.
+
+![Train Model Button]("C:\Users\user\Documents\projects\teachable_machine\Screenshot3.png")
+
+## Step 5: Test and Export the Model
+
+Once the training is complete, you can test the model in real-time using your webcam or uploading new images. Test to see if it can distinguish between water bottles and stationary items.
+
+If you’re satisfied with the results, you can export the model to use in your own web projects, applications, or even in hardware devices using platforms like TensorFlow.js or TensorFlow Lite.
+
+---
+
+By following this process, you will be able to train a simple image classifier that can help you analyze what objects are being used in your online study classes. With real-time testing, you can check whether the student is using a water bottle or a stationary item in the live feed.
+
